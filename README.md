@@ -2,8 +2,9 @@
 
 - TECHNOLOGY : CLOUD APP DEVELOPMENT
 - TEAM ID    : PNT2022TMID29203
-- 
-![ibm](https://user-images.githubusercontent.com/55442886/198847093-03c78698-d684-4056-aec4-c1689924d338.jpg)
+
+![ibm](https://user-images.githubusercontent.com/55442886/198847153-cac3302d-3cfc-405c-a674-21cdd3530122.jpg)
+
 
 
 # 📒 PROJECT DESCRIPTION
